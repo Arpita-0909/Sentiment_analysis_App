@@ -18,3 +18,9 @@ AI Sentiment Analysis Web App using NLP and Machine Learning. Built with TF-IDF 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 🌐 Live Demo
+https://Sentiment_analysis_App.streamlit.app
+
+## App Link
+https://sentimentanalysisapp-uuwaqtteymbl39b4infqx2.streamlit.app/

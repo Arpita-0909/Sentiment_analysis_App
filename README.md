@@ -1,2 +1,20 @@
-# Sentiment_analysis_App
+# AI Sentiment_analysis_App
 AI Sentiment Analysis Web App using NLP and Machine Learning. Built with TF-IDF and SVM to classify text into Positive, Neutral, and Negative sentiments, with real-time prediction, confidence score, and interactive Streamlit UI.
+
+
+## Features
+- Predicts **Positive, Neutral, Negative** sentiment
+- Shows **confidence score**
+- Displays **probability chart**
+- Built with **Streamlit UI**
+
+## Tech Stack
+- Python
+- Scikit-learn (SVM)
+- TF-IDF Vectorizer
+- Streamlit
+
+## ▶️ Run Locally
+```bash
+pip install -r requirements.txt
+streamlit run app.py

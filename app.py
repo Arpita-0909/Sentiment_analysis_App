@@ -3,7 +3,6 @@ import joblib
 import re
 import numpy as np
 import time
-import matplotlib.pyplot as plt
 
 # -----------------------------
 # PAGE CONFIG
